@@ -35,15 +35,3 @@ function renderProductsCards(json) {
         addProduct(products[i]);
     }
 }
-
-
-
-
-
-
-const products = JSON.parse(function clearProducts()) {
-    for (let length = products.length; products <  products.length; length++ ){
-        console.log(products[length]);
-    }
-}
-} 
