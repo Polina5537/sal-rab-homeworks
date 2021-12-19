@@ -11,7 +11,7 @@
 
 function parseProducts(json) {
     const data = JSON.parse(json);
-    return data.products
+    return data.products;
 }
   
 
